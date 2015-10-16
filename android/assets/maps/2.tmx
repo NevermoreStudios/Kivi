@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" nextobjectid="7">
+ <tileset firstgid="1" name="Tileset" tilewidth="32" tileheight="32" tilecount="2">
+  <image source="../Tileset.png" width="64" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1MERwCAIBVFM/0WnBQT5CbiHvaLPGVlmtojI1XM4HDhw+B0q5xTH6XfA0d/xBysOnUO1r3Dg6OiIWHHgwIFD6Yjs26pwfH93HNr9UTW/8k1w4Oju2HVlzThwKBxVf9MzK3NehSM6C8dcR+YPTHNEz8Ghq8Mdb3IQ7fYCU3gMrQ==
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="1" x="126" y="126">
+   <polyline points="0,0 640,2 642,674 768,670 772,128 902,128 898,672 1056,672 1058,256 1186,254 1186,672 1280,672 1282,802 1058,800 1060,1058 1282,1058 1282,1184 1058,1188 1060,1282 930,1282 930,804 292,802 290,960 640,962 640,1090 578,1090 578,1314 450,1310 448,1090 288,1090 288,1378 160,1378 160,1252 0,1250 0,1122 162,1122 160,962 32,960 36,834 160,832 162,674 510,672 512,482 226,480 228,350 510,354 512,194 2,190 0,0"/>
+  </object>
+ </objectgroup>
+</map>
