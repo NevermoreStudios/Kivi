@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="22" height="15" tilewidth="32" tileheight="32" nextobjectid="4">
+ <tileset firstgid="1" name="Tileset" tilewidth="32" tileheight="32" tilecount="2">
+  <image source="../Tileset.png" width="64" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="22" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKQjZiIBj5qL31xSzCDFnlFzaWsupfFJqzw33M2lBAMAO9cCAw==
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="2" x="190" y="32">
+   <polyline points="0,0 354,-1 354,128 481,128 482,287 355,288 354,416 33,415 33,288 -158,289 -159,126 1,126 1,0"/>
+  </object>
+ </objectgroup>
+</map>
